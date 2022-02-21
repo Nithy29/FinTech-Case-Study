@@ -17,7 +17,7 @@ Mogo Inc. is primary in the business of financial service. Now the company has l
 
 * The Company Founders
 
-  The company was founded by David Marshall Feller in 2003 as per Wikipedia. 
+  The company was founded by David Marshall Feller in 2003 as per Wikipedia. Yahoo finance reports that David Marchell Feller is the Founder, CEO and Chairmen and Mr. Grefory Dean Feller is the President, and CFO and Director
 
 
 * Mogo Inc’s Idea/Concept
@@ -161,6 +161,7 @@ The competitors of Mogo Inc are:-
 
   [Investopedia](https://www.investopedia.com/articles/markets/081116/5-fintech-firms-emerging-canada-mftgf-vggof.asp#:~:text=Here's%20a%20look%20at%20five,Mogo%2C%20Shopify%2C%20and%20Cryptologic.)
 
+  [Sec Report](https://sec.report/CIK/0001602842)
 
 
 
