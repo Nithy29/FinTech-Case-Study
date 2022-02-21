@@ -141,7 +141,7 @@ The competitors of Mogo Inc are:-
 
 
 
-##Addendum
+## Addendum
 
   [perrill](https://www.perrill.com/what-is-roas/)
 
